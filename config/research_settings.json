@@ -1,0 +1,70 @@
+{
+  "$schema": "../templates/company_intelligence_schema.md",
+  "project_metadata": {
+    "project_name": "hemanthx446 Company Intelligence",
+    "owner": "Hemanth",
+    "version": "1.0.0",
+    "description": "Configurable parameters for company intelligence investigation runs."
+  },
+  "target_company": {
+    "name": "Target Enterprise Inc.",
+    "official_website": "https://www.example.com",
+    "country_or_region": "Global / Multi-region",
+    "industry": "Industrial Manufacturing / Enterprise Technology",
+    "research_objective": "Comprehensive company intelligence analysis, technological footprint mapping, partner and customer discovery, signal monitoring, and commercial opportunity identification."
+  },
+  "execution_parameters": {
+    "research_depth": "standard",
+    "research_depth_options": ["quick_scan", "standard", "deep_dive"],
+    "research_date": "2026-10-26",
+    "search_allowance": {
+      "max_web_searches": 40,
+      "max_pages_inspected": 25,
+      "max_unresolved_gap_retries": 3
+    },
+    "output_directory": "outputs",
+    "research_data_directory": "research"
+  },
+  "opportunity_scoring_weights": {
+    "strategic_fit": {
+      "max_points": 30,
+      "description": "Alignment with research profile domains (e.g., SAP, MES, Cloud ALM, Enterprise Integration, Architecture Advisory)."
+    },
+    "business_need_evidence": {
+      "max_points": 25,
+      "description": "Public evidence of transformation needs, legacy modernization, technical bottlenecks, or regulatory mandates."
+    },
+    "account_and_contact_access": {
+      "max_points": 20,
+      "description": "Identification of verified decision-makers, relevant business units, or accessible buying centers."
+    },
+    "commercial_relevance": {
+      "max_points": 15,
+      "description": "Magnitude of potential commercial impact, project budget scale, and strategic value."
+    },
+    "feasibility_and_timing": {
+      "max_points": 10,
+      "description": "Near-term actionable timeline (0-6 months), realistic entry point, and organizational readiness."
+    },
+    "total_max_points": 100
+  },
+  "minimum_evidence_requirements": {
+    "fact_verification_policy": "minimum_one_primary_source_or_two_independent_secondary_sources",
+    "allowed_evidence_statuses": [
+      "Verified fact",
+      "Corroborated finding",
+      "Reasonable inference",
+      "Unverified claim",
+      "Historical information",
+      "Unknown information"
+    ],
+    "allowed_confidence_levels": [
+      "High",
+      "Medium",
+      "Low"
+    ],
+    "require_source_url_for_facts": true,
+    "require_access_date": true,
+    "disallow_speculative_partnerships": true
+  }
+}

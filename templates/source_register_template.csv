@@ -1,0 +1,4 @@
+Source_ID,Title_or_Publisher,URL,Publication_Date,Access_Date,Evidence_Category,Confidence_Level,Notes_and_Findings
+SRC-001,Official Corporate Investor Factsheet,https://example.com/investors,2026-06-30,2026-10-26,Verified fact,High,Primary corporate investor filing confirming revenue and executive leadership
+SRC-002,Annual Sustainability and Operations Report,https://example.com/reports/annual,2026-04-15,2026-10-26,Verified fact,High,Manufacturing plant footprint and global employee count
+SRC-003,Industry Technology News Feature,https://news.example.com/plant-modernization,2026-09-05,2026-10-26,Corroborated finding,Medium,Details plant investment and automation modernization program
