@@ -7,11 +7,11 @@
     "description": "Configurable parameters for company intelligence investigation runs."
   },
   "target_company": {
-    "name": "Target Enterprise Inc.",
-    "official_website": "https://www.example.com",
-    "country_or_region": "Global / Multi-region",
-    "industry": "Industrial Manufacturing / Enterprise Technology",
-    "research_objective": "Comprehensive company intelligence analysis, technological footprint mapping, partner and customer discovery, signal monitoring, and commercial opportunity identification."
+    "name": "Iteanz Technologies",
+    "official_website": "https://www.iteanztechnologies.com",
+    "country_or_region": "India, Bangalore",
+    "industry": "Enterprise IT Solutions, SAP Consulting & Digital Transformation Services",
+    "research_objective": "Understand its business model, products, solutions, services, customer accounts, ecosystem partners, key leadership/contacts, competitors, and potential commercial opportunities."
   },
   "execution_parameters": {
     "research_depth": "standard",

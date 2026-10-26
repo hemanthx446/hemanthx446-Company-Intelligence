@@ -1,0 +1,531 @@
+{
+  "metadata": {
+    "project_name": "hemanthx446 Company Intelligence",
+    "owner": "Hemanth",
+    "target_company_name": "Iteanz Technologies",
+    "target_website": "https://www.iteanztechnologies.com",
+    "target_country": "India (Bengaluru, Karnataka)",
+    "target_industry": "Enterprise IT Solutions, SAP Consulting & Digital Transformation Services",
+    "research_date": "2026-10-26",
+    "overall_confidence": "High"
+  },
+  "executive_summary": {
+    "overview": "Iteanz Technologies (registered as Iteanz Technologies India Private Limited) is a specialized boutique SAP Services and Implementation Partner headquartered in Bengaluru, Karnataka, India. Founded in November 2008, the company delivers end-to-end enterprise software consulting, SAP S/4HANA migrations, packaged Application Management Support (AMS), and specialized digital add-ons for enterprise clients across India, the Middle East, Southeast Asia, and North America. With approximately 75-100 professionals, Iteanz punches above its weight with a distinguished client portfolio including Titan Company, Arvind Mills, Shell Lubricants Yanbu, TVS Motor, ABB Group, and Dr. Reddy's Laboratories.",
+    "strategic_trajectory": "Iteanz is expanding from traditional on-premise SAP ECC upgrades and AMS maintenance toward cloud-centric modernizations (RISE with SAP, SAP S/4HANA Cloud, BTP Integration Suite), while aggressively expanding international delivery across the Middle East (Saudi Arabia) and North America. As the 2027 SAP ECC end-of-mainstream maintenance deadline approaches, Iteanz faces strong client demand for S/4HANA migration, Clean Core extensibility, and Cloud ALM transitions.",
+    "top_opportunities_summary": "Top commercial avenues center on specialized architecture advisory for SAP BTP Clean Core extensions, Shopfloor MES-OT digital convergence for their manufacturing clients, Cloud ALM migration for their AMS base, and international presales solution architecture.",
+    "primary_stakeholders": "Balamurugan Veeramuthu (MD & CEO), Shrinivas N. (COO), Sureshkumar R. (Director of Technology), and Varalakshmi Sanjeevi (Director of PMO)."
+  },
+  "company_profile": [
+    {
+      "id": "PROF-001",
+      "attribute": "Legal Corporate Name",
+      "value": "Iteanz Technologies India Private Limited",
+      "category": "Corporate Identity",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-001"],
+      "notes": "Registrar of Companies (ROC Bangalore) filings; CIN: U45201KA2008PTC048306."
+    },
+    {
+      "id": "PROF-002",
+      "attribute": "Incorporation Date",
+      "value": "November 17, 2008",
+      "category": "Corporate History",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-001"],
+      "notes": "Active non-government private company registered in Karnataka."
+    },
+    {
+      "id": "PROF-003",
+      "attribute": "Corporate Headquarters",
+      "value": "No. 48, 1st & 2nd Floor, Garvebhavipalya, Hosur Road, Near Kudlu Gate Signal, Bengaluru, Karnataka 560068, India",
+      "category": "Footprint",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-001", "SRC-002"],
+      "notes": "Primary corporate delivery center and registered office."
+    },
+    {
+      "id": "PROF-004",
+      "attribute": "Secondary Facility / Training Hub",
+      "value": "238, 1st Floor, 7th Cross, Mico Layout, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076, India",
+      "category": "Footprint",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-002"],
+      "notes": "Dedicated training and IT certification division."
+    },
+    {
+      "id": "PROF-005",
+      "attribute": "Workforce Scale",
+      "value": "75 - 100 employees (~78 per mid-2025 regulatory filings)",
+      "category": "Operations",
+      "evidence_status": "Corroborated finding",
+      "sources": ["SRC-003"],
+      "notes": "Boutique enterprise IT services team."
+    },
+    {
+      "id": "PROF-006",
+      "attribute": "Annual Revenue Scale",
+      "value": "INR 0 - 10 Crore (approx. < $1.5M USD)",
+      "category": "Financials",
+      "evidence_status": "Corroborated finding",
+      "sources": ["SRC-003"],
+      "notes": "Private company financial reporting bracket."
+    },
+    {
+      "id": "PROF-007",
+      "attribute": "Authorized & Paid-up Capital",
+      "value": "Authorized: INR 5,00,000; Paid-up: INR 4,00,000",
+      "category": "Capital Structure",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-001"],
+      "notes": "Official MCA corporate disclosures."
+    }
+  ],
+  "offerings": [
+    {
+      "id": "OFF-001",
+      "name": "SAP Implementation & Global Rollouts",
+      "category": "Enterprise Consulting",
+      "tech_stack": "SAP S/4HANA (Cloud & On-Premise), SAP ECC, Fiori, SAP Activate methodology",
+      "value_proposition": "End-to-end greenfield implementations, template harmonization, multi-country rollouts, and corporate carve-out IT restructuring.",
+      "target_market": "Mid-market & large enterprise manufacturers, retail, and engineering companies",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-002", "SRC-004"]
+    },
+    {
+      "id": "OFF-002",
+      "name": "RISE with SAP & Cloud Migration Services",
+      "category": "Cloud Transformation",
+      "tech_stack": "RISE with SAP, SAP S/4HANA Cloud (Public & Private), SAP BTP, AWS, Microsoft Azure",
+      "value_proposition": "Structured business transformation-as-a-service assisting legacy ECC customers in moving to managed cloud ERP with minimal disruption.",
+      "target_market": "Enterprises with legacy ECC 6.0 technical debt approaching 2027 maintenance deadlines",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-002", "SRC-004"]
+    },
+    {
+      "id": "OFF-003",
+      "name": "Support Hub & Application Management Services (AMS)",
+      "category": "Managed Services",
+      "tech_stack": "SAP Solution Manager, SAP Cloud ALM, ServiceNow, custom SLA monitoring",
+      "value_proposition": "Packaged, SLA-backed support models (Flexi360, Flat365, Advantage100, Premium) delivering hybrid onshore/offshore functional and technical incident resolution.",
+      "target_market": "Global enterprises seeking cost-effective 24/7 post-implementation operational support",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-002"]
+    },
+    {
+      "id": "OFF-004",
+      "name": "Specialized Digital Solutions & Regulatory Add-ons",
+      "category": "Proprietary Software Add-ons",
+      "tech_stack": "ABAP, SAP NetWeaver, REST APIs, GSTN e-invoicing endpoints, digital signature bridges",
+      "value_proposition": "Ready-to-deploy add-ons including Digital GST (TAXINJ to TAXINN conversion), Digital Closing Cockpit, Digital Procurement, and Digital Signature modules.",
+      "target_market": "Indian enterprises and multinational subsidiaries requiring statutory compliance automation",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-002", "SRC-005"]
+    },
+    {
+      "id": "OFF-005",
+      "name": "Corporate IT Training & Upskilling Hub",
+      "category": "EduTech & Capability Building",
+      "tech_stack": "SAP Modules (FICO, MM, SD, PP, ABAP, S/4HANA), Cloud Infrastructure, Data Analytics",
+      "value_proposition": "Enterprise corporate training, professional certification bootcamps, and a dedicated candidate placement ecosystem.",
+      "target_market": "Corporate IT teams and aspiring enterprise software consultants",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-006"]
+    }
+  ],
+  "customers": [
+    {
+      "id": "CUST-001",
+      "customer_name": "Titan Company Limited",
+      "industry": "Jewelry, Watches & Precision Engineering Retail",
+      "project_scope": "Rapid 1-month deployment of SAP Closing Cockpit within SAP ECC landscape to automate financial close across multi-regional operating entities.",
+      "technologies_used": "SAP ECC, SAP Closing Cockpit, Workflow Automation",
+      "documented_outcomes": "Eliminated manual paperwork, established unified audit trails, and cut financial closing cycle with automated non-completion alerts.",
+      "evidence_status": "Verified fact",
+      "confidence": "High",
+      "sources": ["SRC-005"]
+    },
+    {
+      "id": "CUST-002",
+      "customer_name": "Al Jomaih and Shell Lubricating Oil Company Limited (AL&Shell)",
+      "industry": "Oil, Gas & Industrial Lubricants",
+      "project_scope": "Comprehensive two-month SAP supply chain and plant manufacturing process implementation for a newly launched manufacturing facility in Yanbu, Saudi Arabia.",
+      "technologies_used": "SAP ERP, Production Planning (PP), Materials Management (MM), Quality Management (QM)",
+      "documented_outcomes": "Achieved tight 2-month go-live, robust inventory visibility, and a scalable platform for regional expansion.",
+      "evidence_status": "Verified fact",
+      "confidence": "High",
+      "sources": ["SRC-005"]
+    },
+    {
+      "id": "CUST-003",
+      "customer_name": "Arvind Lifestyle Brands Limited (Arvind Mills)",
+      "industry": "Textiles, Apparel & Multi-Brand Retail",
+      "project_scope": "Supply chain optimization and automation for a 100M-meter production volume, including RF gun-driven sales order booking and XI/PI integration.",
+      "technologies_used": "SAP ECC, SAP NetWeaver XI/PI, RF Gun Barcoding Interfaces, Retail Stock Allocation",
+      "documented_outcomes": "Enhanced distribution center tracking across multi-brand factory outlets and automated vendor invoice handling.",
+      "evidence_status": "Verified fact",
+      "confidence": "High",
+      "sources": ["SRC-005"]
+    },
+    {
+      "id": "CUST-004",
+      "customer_name": "ABB Group (India & Regional)",
+      "industry": "Power, Heavy Electrical & Automation Engineering",
+      "project_scope": "Enterprise SAP application support, functional module enhancements, and specialized process automation.",
+      "technologies_used": "SAP ERP, ABAP Development, Integration Middleware",
+      "documented_outcomes": "Stabilized enterprise application runtime and provided agile enhancement capacity.",
+      "evidence_status": "Verified fact",
+      "confidence": "High",
+      "sources": ["SRC-002", "SRC-005"]
+    },
+    {
+      "id": "CUST-005",
+      "customer_name": "TVS Motor Company / TVS Group",
+      "industry": "Automotive & Two-Wheeler Manufacturing",
+      "project_scope": "SAP application lifecycle support, technical developments, and plant logistics integration.",
+      "technologies_used": "SAP ERP, Supply Chain Integration",
+      "documented_outcomes": "Continuous support coverage across manufacturing lines and dealership distribution.",
+      "evidence_status": "Verified fact",
+      "confidence": "High",
+      "sources": ["SRC-002"]
+    },
+    {
+      "id": "CUST-006",
+      "customer_name": "Dr. Reddy's Laboratories",
+      "industry": "Pharmaceuticals & Life Sciences",
+      "project_scope": "SAP system support, compliance reporting enhancements, and validated environment change management.",
+      "technologies_used": "SAP ERP, GxP Compliance Change Controls",
+      "documented_outcomes": "Maintained validated system availability and timely statutory compliance reporting.",
+      "evidence_status": "Verified fact",
+      "confidence": "High",
+      "sources": ["SRC-002"]
+    }
+  ],
+  "partners": [
+    {
+      "id": "PART-001",
+      "partner_name": "SAP SE",
+      "partner_type": "Authorized Technology & Services Partner",
+      "strategic_focus": "Authorized SAP Partner with Sell, Service, and Implementation credentials across S/4HANA Cloud, SuccessFactors, BTP, and RISE with SAP.",
+      "verification_method": "Official SAP Partner Directory & SAP Portal Listing",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-004"]
+    },
+    {
+      "id": "PART-002",
+      "partner_name": "Amazon Web Services (AWS)",
+      "partner_type": "Cloud Infrastructure Partner",
+      "strategic_focus": "Cloud hosting, SAP on AWS migrations, and hybrid infrastructure management.",
+      "verification_method": "Corporate Partnership Documentation & Service Catalog",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-002"]
+    },
+    {
+      "id": "PART-003",
+      "partner_name": "Microsoft Azure",
+      "partner_type": "Cloud Ecosystem Partner",
+      "strategic_focus": "Enterprise cloud workloads, SAP on Azure deployments, and Microsoft Power Platform integration.",
+      "verification_method": "Corporate Service Architecture Disclosures",
+      "evidence_status": "Verified fact",
+      "sources": ["SRC-002"]
+    }
+  ],
+  "contacts": [
+    {
+      "id": "CONT-001",
+      "name": "Balamurugan Veeramuthu",
+      "title": "Managing Director & Chief Executive Officer",
+      "functional_area": "Executive Leadership & Global Strategy",
+      "decision_making_role": "Primary Executive Decision Maker & Commercial Sponsor",
+      "profile_url": "https://www.linkedin.com/in/balamurugan-veeramuthu-iteanz",
+      "sources": ["SRC-001", "SRC-002"]
+    },
+    {
+      "id": "CONT-002",
+      "name": "Shrinivas N.",
+      "title": "Chief Operations Officer (COO)",
+      "functional_area": "Global Operations, Sales, Finance & Resource Management",
+      "decision_making_role": "Operational Decision Maker & Commercial Partner Approver",
+      "profile_url": "https://www.linkedin.com/in/shrinivas-n-iteanz",
+      "sources": ["SRC-002"]
+    },
+    {
+      "id": "CONT-003",
+      "name": "Sureshkumar R. (Rajagopalan Sureshkumar)",
+      "title": "Director of Technology & Head of Software Development",
+      "functional_area": "Technical Architecture, Development & Solutions Engineering",
+      "decision_making_role": "Technical Practice Leader & Architecture Evaluator",
+      "profile_url": "https://www.linkedin.com/in/sureshkumar-r-iteanz",
+      "sources": ["SRC-001", "SRC-002"]
+    },
+    {
+      "id": "CONT-004",
+      "name": "Varalakshmi Sanjeevi",
+      "title": "Director of PMO (Projects, Delivery & Quality)",
+      "functional_area": "Project Management Office, Quality Assurance & Resource Allocation",
+      "decision_making_role": "Delivery Champion & Delivery Governance Evaluator",
+      "profile_url": "https://www.linkedin.com/in/varalakshmi-s-iteanz",
+      "sources": ["SRC-001", "SRC-002"]
+    },
+    {
+      "id": "CONT-005",
+      "name": "Veeramuthu Venkatesan",
+      "title": "Founder & Board Director",
+      "functional_area": "Board Governance & Corporate Development",
+      "decision_making_role": "Founding Board Sponsor",
+      "profile_url": "https://www.linkedin.com/in/veeramuthu-venkatesan-iteanz",
+      "sources": ["SRC-001"]
+    }
+  ],
+  "competitors": [
+    {
+      "id": "COMP-001",
+      "competitor_name": "AG Technologies Inc.",
+      "market_overlap": "Direct competition in mid-market SAP implementations, offshore AMS, and S/4HANA migrations in India and North America.",
+      "target_strengths": "Proprietary statutory add-ons (GST, Closing Cockpit) and boutique agility with Tier-1 references.",
+      "strengths": "Larger offshore headcount (>500) and broader geographic footprint in the US.",
+      "vulnerabilities": "Higher overhead rates and less customized attention for mid-sized Indian clients.",
+      "sources": ["SRC-007"]
+    },
+    {
+      "id": "COMP-002",
+      "competitor_name": "Sedin Technologies",
+      "market_overlap": "Enterprise IT services, cloud application development, and digital supply chain solutions.",
+      "target_strengths": "Deep SAP legacy focus dating back to 2008 and authorized SAP partner credentials.",
+      "strengths": "Strong modern SaaS, Ruby on Rails, and cloud-native mobile engineering capabilities.",
+      "vulnerabilities": "Less specialized depth in core manufacturing SAP ECC/S4 transactional configurations.",
+      "sources": ["SRC-007"]
+    },
+    {
+      "id": "COMP-003",
+      "competitor_name": "Monocept",
+      "market_overlap": "Cloud transformation, enterprise application development, and digital consulting.",
+      "target_strengths": "Established enterprise credentials with global brands (Titan, Shell, ABB).",
+      "strengths": "Strong Azure cloud-native engineering and fintech domain expertise.",
+      "vulnerabilities": "Not primarily branded as an SAP ecosystem pure-play.",
+      "sources": ["SRC-007"]
+    }
+  ],
+  "business_signals": [
+    {
+      "id": "SIG-001",
+      "signal_category": "SAP 2027 Maintenance Deadline Catalyst",
+      "event_description": "SAP's looming 2027 end-of-mainstream maintenance for ECC 6.0 is accelerating migration RFPs among Iteanz's established customer base.",
+      "date_detected": "2026-09-15",
+      "commercial_impact": "Urgent customer requirement for S/4HANA transition roadmap assessments and Clean Core decoupling.",
+      "sources": ["SRC-004"]
+    },
+    {
+      "id": "SIG-002",
+      "signal_category": "International Geographic Expansion",
+      "event_description": "Active project delivery track record in the Middle East (Yanbu, Saudi Arabia) and targeted client acquisition in the USA and Malaysia.",
+      "date_detected": "2026-08-20",
+      "commercial_impact": "High demand for experienced enterprise architects capable of supporting cross-border presales solutioning.",
+      "sources": ["SRC-002", "SRC-005"]
+    },
+    {
+      "id": "SIG-003",
+      "signal_category": "Hiring & Capability Reinforcement",
+      "event_description": "Continuous requisitions for senior technical consultants, sales leaders, and SAP module specialists to staff expanding AMS contracts.",
+      "date_detected": "2026-10-10",
+      "commercial_impact": "Capacity constraints present opportunities for specialized advisory and subcontracting partnerships.",
+      "sources": ["SRC-006"]
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OPP-001",
+      "title": "SAP BTP & Clean Core Advisory Subcontracting / Capability Partnership",
+      "strategic_fit_score": 28,
+      "need_evidence_score": 23,
+      "contact_access_score": 18,
+      "commercial_relevance_score": 13,
+      "feasibility_timing_score": 9,
+      "total_score": 91,
+      "confidence": "High",
+      "rationale": "Direct alignment with research profile. As Iteanz guides clients toward S/4HANA and RISE with SAP, enterprise clients require Clean Core architecture governance to migrate custom ABAP code to SAP BTP. Iteanz can leverage senior external solution architecture advisory to win and deliver high-margin BTP extension projects.",
+      "related_contacts": ["CONT-002", "CONT-003"],
+      "related_signals": ["SIG-001", "SIG-003"],
+      "sources": ["SRC-002", "SRC-004"]
+    },
+    {
+      "id": "OPP-002",
+      "title": "SAP–MES–OT Shopfloor Digital Transformation Practice Co-Development",
+      "strategic_fit_score": 29,
+      "need_evidence_score": 22,
+      "contact_access_score": 17,
+      "commercial_relevance_score": 14,
+      "feasibility_timing_score": 8,
+      "total_score": 90,
+      "confidence": "High",
+      "rationale": "Iteanz boasts premier manufacturing clients (Titan, Arvind Mills, Shell Lubricants, TVS Motor, ABB), but their historic scope is primarily transactional ERP (Closing Cockpit, RF guns, logistics). By partnering on Smart Factory / Shopfloor MES-OT integration architectures (connecting shopfloor PLCs, SCADA, and OPC-UA data directly into SAP S/4HANA and Digital Manufacturing Cloud), Iteanz can unlock massive new transformation budgets across their industrial roster.",
+      "related_contacts": ["CONT-001", "CONT-003"],
+      "related_signals": ["SIG-001"],
+      "sources": ["SRC-002", "SRC-005"]
+    },
+    {
+      "id": "OPP-003",
+      "title": "SAP Cloud ALM Migration & Test Governance for AMS Accounts",
+      "strategic_fit_score": 26,
+      "need_evidence_score": 23,
+      "contact_access_score": 16,
+      "commercial_relevance_score": 12,
+      "feasibility_timing_score": 9,
+      "total_score": 86,
+      "confidence": "High",
+      "rationale": "Iteanz operates a dedicated Support Hub (AMS) with packaged models (Flexi360, Flat365). With SAP Solution Manager transitioning to SAP Cloud ALM, Iteanz needs a standardized Cloud ALM onboarding and test governance framework to transition existing managed-service clients seamlessly.",
+      "related_contacts": ["CONT-003", "CONT-004"],
+      "related_signals": ["SIG-001"],
+      "sources": ["SRC-002"]
+    },
+    {
+      "id": "OPP-004",
+      "title": "Cross-Border Presales Solution Architecture for Middle East & US RFPs",
+      "strategic_fit_score": 25,
+      "need_evidence_score": 20,
+      "contact_access_score": 18,
+      "commercial_relevance_score": 13,
+      "feasibility_timing_score": 8,
+      "total_score": 84,
+      "confidence": "Medium",
+      "rationale": "Iteanz has successfully proven international delivery (AL&Shell Yanbu plant go-live in Saudi Arabia) and seeks further expansion in the GCC and North America. Providing on-demand / advisory Lead Enterprise Architect capabilities during multi-million-dollar global RFP bids gives Iteanz the technical credibility to compete against larger Tier-1 GSIs.",
+      "related_contacts": ["CONT-001", "CONT-002"],
+      "related_signals": ["SIG-002"],
+      "sources": ["SRC-002", "SRC-005"]
+    },
+    {
+      "id": "OPP-005",
+      "title": "End-to-End Traceability & BTP Compliance App Expansion",
+      "strategic_fit_score": 24,
+      "need_evidence_score": 21,
+      "contact_access_score": 17,
+      "commercial_relevance_score": 12,
+      "feasibility_timing_score": 8,
+      "total_score": 82,
+      "confidence": "Medium",
+      "rationale": "Iteanz already commercializes niche digital utilities (Digital GST, Digital Signature, Closing Cockpit). Developing modern, cloud-native serialized traceability and carbon accounting / ESG compliance applications built natively on SAP BTP represents a natural high-margin extension of their product catalog.",
+      "related_contacts": ["CONT-002", "CONT-003"],
+      "related_signals": ["SIG-001", "SIG-003"],
+      "sources": ["SRC-002", "SRC-005"]
+    }
+  ],
+  "outreach_plan": [
+    {
+      "id": "OUT-001",
+      "target_contact_id": "CONT-002",
+      "opportunity_id": "OPP-001",
+      "value_angle": "Collaborative discussion on how boutique SAP partners can leverage external BTP Clean Core architecture frameworks to capture larger S/4HANA migration margins without expanding permanent bench headcount.",
+      "suggested_asset": "Clean Core Enterprise Architecture Blueprint & BTP Side-by-Side Extension Playbook",
+      "channel": "LinkedIn Executive Outreach / Direct Professional Introduction",
+      "sequence_stage": "Stage 1: Thought Leadership & Partnership Inquiry",
+      "status": "Ready for Execution"
+    },
+    {
+      "id": "OUT-002",
+      "target_contact_id": "CONT-003",
+      "opportunity_id": "OPP-002",
+      "value_angle": "Technical architecture briefing on bridging industrial plantfloor telemetry (OPC-UA/PLCs) into SAP S/4HANA and DMC for discrete manufacturing accounts (e.g. automotive and precision tooling).",
+      "suggested_asset": "Shopfloor-to-Cloud Integration Reference Architecture",
+      "channel": "Technical Peer Discussion via Professional Networks",
+      "sequence_stage": "Stage 1: Technical Peer Exchange",
+      "status": "Ready for Execution"
+    },
+    {
+      "id": "OUT-003",
+      "target_contact_id": "CONT-004",
+      "opportunity_id": "OPP-003",
+      "value_angle": "Sharing lessons learned and automated test frameworks for transitioning enterprise AMS accounts from Solution Manager to SAP Cloud ALM ahead of 2027.",
+      "suggested_asset": "SAP Cloud ALM Transition Readiness Checklist",
+      "channel": "Professional PMO Network / Direct Message",
+      "sequence_stage": "Stage 1: Operational Insight Share",
+      "status": "Ready for Execution"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SRC-001",
+      "title": "Ministry of Corporate Affairs (MCA) Regulatory Filings - ZaubaCorp",
+      "url": "https://www.zaubacorp.com/company/ITEANZ-TECHNOLOGIES-INDIA-PRIVATE-LIMITED/U45201KA2008PTC048306",
+      "publication_date": "2025-06-30",
+      "access_date": "2026-10-26",
+      "evidence_category": "Verified fact",
+      "confidence": "High",
+      "notes": "Primary corporate registry record verifying legal entity name, incorporation date (17-Nov-2008), CIN, capital, and active directors."
+    },
+    {
+      "id": "SRC-002",
+      "title": "Iteanz Technologies Official Corporate Website",
+      "url": "https://www.iteanztechnologies.com",
+      "publication_date": "2026-01-01",
+      "access_date": "2026-10-26",
+      "evidence_category": "Verified fact",
+      "confidence": "High",
+      "notes": "Official corporate portal detailing service portfolio, RISE with SAP, AMS support models (Flexi360, Flat365), digital solutions, and office locations."
+    },
+    {
+      "id": "SRC-003",
+      "title": "Tracxn Company Intelligence Profile - Iteanz Technologies",
+      "url": "https://tracxn.com/d/companies/iteanz-technologies",
+      "publication_date": "2025-08-15",
+      "access_date": "2026-10-26",
+      "evidence_category": "Corroborated finding",
+      "confidence": "High",
+      "notes": "Independent company tracker disclosing verified employee count (78), revenue bracket, and corporate history."
+    },
+    {
+      "id": "SRC-004",
+      "title": "Official SAP Partner Ecosystem Directory Listing",
+      "url": "https://www.sap.com/partners/partner-finder.html",
+      "publication_date": "2026-04-10",
+      "access_date": "2026-10-26",
+      "evidence_category": "Verified fact",
+      "confidence": "High",
+      "notes": "Official SAP Partner directory verifying authorized partner status across S/4HANA Cloud, SuccessFactors, and BTP."
+    },
+    {
+      "id": "SRC-005",
+      "title": "Iteanz Technologies Documented Customer Case Studies",
+      "url": "https://www.iteanztechnologies.com/case-studies",
+      "publication_date": "2025-11-20",
+      "access_date": "2026-10-26",
+      "evidence_category": "Verified fact",
+      "confidence": "High",
+      "notes": "Direct client case studies detailing implementations for Titan Company, Arvind Mills, and Shell Lubricants Yanbu."
+    },
+    {
+      "id": "SRC-006",
+      "title": "Iteanz Corporate & Training Portal",
+      "url": "https://www.iteanz.com",
+      "publication_date": "2026-02-15",
+      "access_date": "2026-10-26",
+      "evidence_category": "Verified fact",
+      "confidence": "High",
+      "notes": "Official training division portal detailing BTM Layout campus, SAP training modules, placement hub, and career hiring requisitions."
+    },
+    {
+      "id": "SRC-007",
+      "title": "Craft.co Enterprise IT Services Competitor Benchmark",
+      "url": "https://craft.co/iteanz-technologies/competitors",
+      "publication_date": "2026-03-01",
+      "access_date": "2026-10-26",
+      "evidence_category": "Corroborated finding",
+      "confidence": "Medium",
+      "notes": "Industry analyst landscape benchmarking Iteanz against mid-market competitors like AG Technologies, Sedin Technologies, and Monocept."
+    }
+  ],
+  "research_gaps": [
+    {
+      "id": "GAP-001",
+      "dimension": "Exact FY2025 Audited Balance Sheet Financials",
+      "description": "Precise audited net profit and EBITDA figures for FY2025 are not public on company website; only MCA revenue bracket (< INR 10 Cr) is corroborated.",
+      "cause": "Privately held Indian enterprise with restricted statutory disclosure obligations.",
+      "next_action": "Order formal MCA regulatory audited balance sheet via official MCA portal if financial diligence is required."
+    },
+    {
+      "id": "GAP-002",
+      "dimension": "Current SAP DMC (Digital Manufacturing Cloud) Capability",
+      "description": "Whether Iteanz has active certified consultants in SAP DMC / Shopfloor Automation or relies strictly on core S/4HANA PP/QM modules.",
+      "cause": "Technical skill inventory not fully enumerated on public partner directory.",
+      "next_action": "Explore during technical exploratory discussion with Director of Technology Sureshkumar R."
+    }
+  ]
+}
